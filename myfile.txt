@@ -1,1 +1,2 @@
-ECHO is on.
+creating a file
+inside the file
